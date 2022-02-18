@@ -20,7 +20,7 @@ ProductTag.init(
         unique: false
       }
     },
-    location_id: {
+    tag_id: {
       type: DataTypes.INTEGER,
       references: {
         model: 'tag',
