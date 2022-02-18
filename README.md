@@ -28,7 +28,7 @@ This e-commerce back end is the result of modifying an already started database 
 
   
   
-![E-commerce Back End webpage working as expected](assets/images/screenshot.png)
+![E-commerce Back End webpage working as expected](assets/screenshot.png)
   
   ## License
   
