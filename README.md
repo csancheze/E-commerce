@@ -18,7 +18,11 @@ This e-commerce back end is the result of modifying an already started database 
   ## Installation
   
   
-- Add the database name, MySQL username and password to an enviornmental variable file. - Install dependencies. - Start the database in MySQL - Seed the database in the terminal from the root folder using "node ./seeds/index" -  Run npm start
+- Add the database name, MySQL username and password to an enviornmental variable file.
+- Install dependencies. 
+- Start the database in MySQL 
+- Seed the database in the terminal from the root folder using "node ./seeds/index" 
+- Run npm start
 
   
   ## Usage
