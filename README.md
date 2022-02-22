@@ -61,11 +61,7 @@ Open the [video](https://drive.google.com/file/d/1eaoJXYo_R--n0j4XOLNgD5pufZ--C-
   
   If you have any question feel free to check my Github 
   
-Username:csancheze
-  
-[Github](https://github.com/csancheze)
+Username:[csancheze](https://github.com/csancheze)
 
-  or send me and email
-  
-<cesanchezesc@gmail.com>
+  or send me an [email](cesanchezesc@gmail.com)
 
